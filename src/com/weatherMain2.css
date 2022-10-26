@@ -1,0 +1,14 @@
+li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tag,
+.factor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 300px;
+}
